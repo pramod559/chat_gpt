@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "chatgpt/.dart_tool": true,
+    "chatgpt/.gitignore": true,
+    "chatgpt/.idea": true,
+    "chatgpt/.metadata": true,
+    "chatgpt/analysis_options.yaml": true,
+    "chatgpt/android": true,
+    "chatgpt/chatgpt.iml": true,
+    "chatgpt/ios": true,
+    "chatgpt/linux": true,
+    "chatgpt/macos": true,
+    "chatgpt/pubspec.lock": true,
+    "chatgpt/README.md": true,
+    "chatgpt/test": true,
+    "chatgpt/web": true,
+    "chatgpt/windows": true
+  }
+}
