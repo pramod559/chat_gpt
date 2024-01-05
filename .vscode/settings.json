@@ -5,7 +5,6 @@
     "chatgpt/.idea": true,
     "chatgpt/.metadata": true,
     "chatgpt/analysis_options.yaml": true,
-    "chatgpt/android": true,
     "chatgpt/chatgpt.iml": true,
     "chatgpt/ios": true,
     "chatgpt/linux": true,
